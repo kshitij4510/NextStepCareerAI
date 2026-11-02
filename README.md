@@ -106,18 +106,3 @@ The Blueprint wires the frontend to the API and configures CORS automatically.
 After the deployment, add the Render static-site URL to Supabase Auth's allowed
 redirect URLs if users sign in through Supabase.
 
----
-
-## Author
-
-**Adrian Dsouza** — BTech Computer Engineering, VIT Mumbai
-
-- Portfolio: https://adrianportfolio-tau.vercel.app
-- GitHub: https://github.com/adrian-25
-- LinkedIn: https://www.linkedin.com/in/adriandsouza-aiml
-
----
-
-## License
-
-MIT
