@@ -1,0 +1,5 @@
+/* Application shell: never constrain dashboard pages to the Vite starter width. */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
